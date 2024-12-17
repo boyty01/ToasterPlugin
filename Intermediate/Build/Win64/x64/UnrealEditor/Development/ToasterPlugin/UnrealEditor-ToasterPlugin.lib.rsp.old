@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ToasterPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\SourceControl\CatalystDepot\WarOfBeing\Intermediate\Build\Win64\x64\DMTesseracTEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\SourceControl\CatalystDepot\WarOfBeing\Plugins\ToasterPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToasterPlugin\Module.ToasterPlugin.cpp.obj"
+"D:\SourceControl\CatalystDepot\WarOfBeing\Plugins\ToasterPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToasterPlugin\ToasterPlugin.cpp.obj"
+"D:\SourceControl\CatalystDepot\WarOfBeing\Plugins\ToasterPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToasterPlugin\Default.rc2.res"
+/OUT:"D:\SourceControl\CatalystDepot\WarOfBeing\Plugins\ToasterPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToasterPlugin\UnrealEditor-ToasterPlugin.lib"

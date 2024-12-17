@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ToasterPlugin.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"ToasterPlugin.cpp.obj"
+		]
+	}
+}

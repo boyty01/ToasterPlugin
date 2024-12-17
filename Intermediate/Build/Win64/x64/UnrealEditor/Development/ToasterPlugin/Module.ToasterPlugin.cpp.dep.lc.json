@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\toasterplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toasterplugin\\module.toasterplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\sourcecontrol\\catalystdepot\\warofbeing\\intermediate\\build\\win64\\x64\\dmtesseracteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\toasterplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toasterplugin\\definitions.toasterplugin.h",
+            "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\toasterplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\toasterplugin\\uht\\toasterplugin.init.gen.cpp",
+            "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\toasterplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\toasterplugin\\uht\\toastersubsystem.gen.cpp",
+            "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\toasterplugin\\source\\toasterplugin\\public\\subsystem\\toastersubsystem.h",
+            "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\toasterplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\toasterplugin\\uht\\toastersubsystem.generated.h",
+            "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\toasterplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toasterplugin\\permoduleinline.gen.cpp",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
